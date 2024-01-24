@@ -18,6 +18,22 @@
           <timeTargetWasSelectedWithDropDown value="2024-01-23T13:41:29.012813Z" />
         </State>
       </entry>
+      <entry key="calculate_20_percent_tip()">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Satyam Thakur\.android\avd\Pixel_3a_XL_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-01-24T13:16:47.638520900Z" />
+        </State>
+      </entry>
     </value>
   </component>
 </project>
